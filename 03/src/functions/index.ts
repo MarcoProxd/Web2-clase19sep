@@ -1,0 +1,1 @@
+export {BuscarPokemonPorId} from "./getPokemon"
